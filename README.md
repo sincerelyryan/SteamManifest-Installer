@@ -1,2 +1,4 @@
 # SteamManifest-Installer
-C# Program that fetches the manifest files of any steam game.
+Program that allows you to install manifest files
+
+This fetches Manifest files from 'https://ssmg4.github.io/ManifestHubDownloader/'
