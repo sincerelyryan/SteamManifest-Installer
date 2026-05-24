@@ -1,0 +1,8 @@
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\bin\Debug\SteamManifest.exe.config
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\bin\Debug\SteamManifest.exe
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\bin\Debug\SteamManifest.pdb
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\obj\Debug\SteamManifest.csproj.AssemblyReference.cache
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\obj\Debug\SteamManifest.csproj.CoreCompileInputs.cache
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\obj\Debug\SteamManifest.exe
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\obj\Debug\SteamManifest.pdb
+C:\Users\noman\source\repos\SteamManifest\SteamManifest\obj\Debug\SteamManifest.exe.config
